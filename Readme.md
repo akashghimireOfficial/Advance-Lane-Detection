@@ -3,7 +3,8 @@
 
 ## Problems
 1. **Camera Distortion**
-There are two types of Distortion:
+                  
+                  There are two types of Distortion:
 
 - **Radial Distortion**
 It happens as because of the divergence cause by camera lens and images don't form as expected. In this case staright lines appears to be curved.
